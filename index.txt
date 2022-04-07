@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+this is in master branch
+=======
+this is in activity branch
+
+this is my first file
+>>>>>>> activity
